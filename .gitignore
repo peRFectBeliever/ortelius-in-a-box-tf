@@ -38,3 +38,6 @@ jwt.pri
 jwt.pub
 *.pri
 *.pub
+
+.vscode/**/*
+logs/**/*
